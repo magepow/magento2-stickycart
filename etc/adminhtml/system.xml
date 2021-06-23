@@ -36,7 +36,7 @@
                 </field>                
 
                 <field id="exclude_products" translate="label comment" type="text" showInDefault="1" showInWebsite="1" showInStore="1" sortOrder="60" canRestore="1">
-                    <label>Product Ids</label>
+                    <label>Exclude Product Ids</label>
                     <comment><![CDATA[Comma-separated]]></comment>
                 </field>
                
